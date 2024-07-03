@@ -1,0 +1,46 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.header {
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.map-container {
+    flex-grow: 1;
+    width: 100%;
+}
+
+.label-icon {
+    background: rgba(255, 255, 255, 0.4);
+    border: 1px solid #333;
+    padding: 4px;
+    border-radius: 4px;
+    font-size: 12px;
+    color: black;
+    text-align: center;
+}
+
+.header-item {
+    flex: 1; /* Distribute space evenly */
+    padding: 5px;
+    text-align: center;
+}
+
+.header-item.left {
+    text-align: left;
+}
+
+.header-item.right {
+    text-align: right;
+}
+
+.breach-text {
+    white-space: normal; /* Ensures text wraps */
+    word-wrap: break-word; /* Breaks the word to prevent overflow */
+}
