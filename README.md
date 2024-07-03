@@ -32,5 +32,5 @@ aeroguardian-BP-release/
 │  ├─ thesis.pdf - submitted thesis (95 pages)
 │  ├─ user manual.pdf - manual for installation and usage of the app (19 pages)
 │  ├─ system manual.pdf - manual for project maintenance (48 pages)
-│  ├─ photodocumentation.pdf - unofficial attachment containing photos from the development of app (18 pages) 
+│  ├─ photodocumentation.pdf - unofficial attachment containing photos from the development (18 pages) 
 ```
