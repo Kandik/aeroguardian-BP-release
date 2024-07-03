@@ -4,7 +4,7 @@ AeroGuardian is an app developed as a part of bachelor's thesis "Increasing the 
 
 Thesis supervisor: doc. Ing. Peter Papcun, PhD.
 
-Rated 100/100 by the university commision.
+Rated 100/100 by the university commission.
 
 This repository contains source code and documentation as submitted in bachelor's thesis submission.
 
