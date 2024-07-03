@@ -2,6 +2,8 @@
 
 AeroGuardian is an app developed as a part of bachelor's thesis "Increasing the safety of the integration of drones (UAV) into the airspace" at Technical University of Košice, 2024.
 
+Thesis supervisor: doc. Ing. Peter Papcun, PhD.
+
 Rated 100/100 by the university commision.
 
 This repository contains source code and documentation as submitted in bachelor's thesis submission.
